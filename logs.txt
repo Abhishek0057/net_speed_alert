@@ -1,0 +1,110 @@
+Date Time: 2020-07-19 21:55:30.983745 Above min speed, stay clam and enjoy, Download Speed :68.89, Upload Speed :69.52, Screen Shot :http://www.speedtest.net/result/9781628041.png
+Date Time: 2020-07-19 21:55:59.064667 Above min speed, stay clam and enjoy, Download Speed :71.9, Upload Speed :75.3, Screen Shot :http://www.speedtest.net/result/9781629591.png
+Date Time: 2020-07-19 21:56:26.825817 Below min speed Download Speed :68.9, Upload Speed :56.8, Screen Shot :http://www.speedtest.net/result/9781631176.png
+Date Time: 2020-07-19 21:56:26.826144 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 21:56:55.074416 Above min speed, stay clam and enjoy, Download Speed :72.79, Upload Speed :77.14, Screen Shot :http://www.speedtest.net/result/9781632760.png
+Date Time: 2020-07-19 21:57:22.693632 Below min speed Download Speed :42.49, Upload Speed :74.35, Screen Shot :http://www.speedtest.net/result/9781634203.png
+Date Time: 2020-07-19 21:57:22.693917 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 21:57:50.244297 Below min speed Download Speed :52.85, Upload Speed :78.17, Screen Shot :http://www.speedtest.net/result/9781635800.png
+Date Time: 2020-07-19 21:57:50.244594 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 21:58:18.227344 Above min speed, stay clam and enjoy, Download Speed :66.43, Upload Speed :71.11, Screen Shot :http://www.speedtest.net/result/9781637230.png
+Date Time: 2020-07-19 21:58:45.566348 Above min speed, stay clam and enjoy, Download Speed :73.62, Upload Speed :76.69, Screen Shot :http://www.speedtest.net/result/9781638753.png
+Date Time: 2020-07-19 21:59:12.649752 Above min speed, stay clam and enjoy, Download Speed :68.93, Upload Speed :78.45, Screen Shot :http://www.speedtest.net/result/9781640209.png
+Date Time: 2020-07-19 21:59:40.045649 Below min speed Download Speed :52.2, Upload Speed :76.02, Screen Shot :http://www.speedtest.net/result/9781641794.png
+Date Time: 2020-07-19 21:59:40.046001 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:00:07.384222 Above min speed, stay clam and enjoy, Download Speed :73.69, Upload Speed :77.97, Screen Shot :http://www.speedtest.net/result/9781643173.png
+Date Time: 2020-07-19 22:00:34.728638 Above min speed, stay clam and enjoy, Download Speed :71.08, Upload Speed :76.1, Screen Shot :http://www.speedtest.net/result/9781645225.png
+Date Time: 2020-07-19 22:01:01.953420, Could not connect to server....retrying after 5 seconds
+Date Time: 2020-07-19 22:01:29.556846 Above min speed, stay clam and enjoy, Download Speed :69.07, Upload Speed :72.79, Screen Shot :http://www.speedtest.net/result/9781648465.png
+Date Time: 2020-07-19 22:01:56.967575 Below min speed Download Speed :57.61, Upload Speed :76.45, Screen Shot :http://www.speedtest.net/result/9781650008.png
+Date Time: 2020-07-19 22:01:56.967896 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:02:24.807347 Above min speed, stay clam and enjoy, Download Speed :62.23, Upload Speed :77.83, Screen Shot :http://www.speedtest.net/result/9781651586.png
+Date Time: 2020-07-19 22:02:51.840946, Could not connect to server....retrying after 5 seconds
+Date Time: 2020-07-19 22:03:19.900883 Above min speed, stay clam and enjoy, Download Speed :72.22, Upload Speed :74.85, Screen Shot :http://www.speedtest.net/result/9781654617.png
+Date Time: 2020-07-19 22:03:47.650831 Above min speed, stay clam and enjoy, Download Speed :69.09, Upload Speed :77.6, Screen Shot :http://www.speedtest.net/result/9781656123.png
+Date Time: 2020-07-19 22:04:15.604798 Above min speed, stay clam and enjoy, Download Speed :65.83, Upload Speed :73.0, Screen Shot :http://www.speedtest.net/result/9781657687.png
+Date Time: 2020-07-19 22:04:43.677718 Above min speed, stay clam and enjoy, Download Speed :71.15, Upload Speed :72.45, Screen Shot :http://www.speedtest.net/result/9781659301.png
+Date Time: 2020-07-19 22:05:11.406410 Below min speed Download Speed :48.92, Upload Speed :72.85, Screen Shot :http://www.speedtest.net/result/9781660789.png
+Date Time: 2020-07-19 22:05:11.406840 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:05:40.189391 Above min speed, stay clam and enjoy, Download Speed :67.11, Upload Speed :73.08, Screen Shot :http://www.speedtest.net/result/9781662554.png
+Date Time: 2020-07-19 22:06:08.459290 Below min speed Download Speed :48.88, Upload Speed :74.87, Screen Shot :http://www.speedtest.net/result/9781664080.png
+Date Time: 2020-07-19 22:06:08.459606 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:06:37.124196 Above min speed, stay clam and enjoy, Download Speed :67.91, Upload Speed :74.35, Screen Shot :http://www.speedtest.net/result/9781665650.png
+Date Time: 2020-07-19 22:07:05.688873 Above min speed, stay clam and enjoy, Download Speed :68.31, Upload Speed :68.84, Screen Shot :http://www.speedtest.net/result/9781667252.png
+Date Time: 2020-07-19 22:07:33.956001 Above min speed, stay clam and enjoy, Download Speed :65.87, Upload Speed :76.52, Screen Shot :http://www.speedtest.net/result/9781668893.png
+Date Time: 2020-07-19 22:08:02.499262 Above min speed, stay clam and enjoy, Download Speed :71.98, Upload Speed :70.46, Screen Shot :http://www.speedtest.net/result/9781670457.png
+Date Time: 2020-07-19 22:08:31.531407 Below min speed Download Speed :50.49, Upload Speed :73.14, Screen Shot :http://www.speedtest.net/result/9781672145.png
+Date Time: 2020-07-19 22:08:31.531649 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:08:59.209406 Below min speed Download Speed :52.53, Upload Speed :78.49, Screen Shot :http://www.speedtest.net/result/9781673728.png
+Date Time: 2020-07-19 22:08:59.209738 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:09:27.621577 Above min speed, stay clam and enjoy, Download Speed :63.9, Upload Speed :76.92, Screen Shot :http://www.speedtest.net/result/9781675231.png
+Date Time: 2020-07-19 22:09:56.293316 Above min speed, stay clam and enjoy, Download Speed :69.61, Upload Speed :71.78, Screen Shot :http://www.speedtest.net/result/9781676876.png
+Date Time: 2020-07-19 22:10:23.840970 Below min speed Download Speed :57.3, Upload Speed :74.38, Screen Shot :http://www.speedtest.net/result/9781678473.png
+Date Time: 2020-07-19 22:10:23.841283 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:10:52.242710 Below min speed Download Speed :46.41, Upload Speed :78.47, Screen Shot :http://www.speedtest.net/result/9781680260.png
+Date Time: 2020-07-19 22:10:52.243025 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:11:20.160362 Above min speed, stay clam and enjoy, Download Speed :62.68, Upload Speed :77.22, Screen Shot :http://www.speedtest.net/result/9781681821.png
+Date Time: 2020-07-19 22:11:48.116943 Above min speed, stay clam and enjoy, Download Speed :68.84, Upload Speed :75.9, Screen Shot :http://www.speedtest.net/result/9781683437.png
+Date Time: 2020-07-19 22:12:16.071096 Below min speed Download Speed :59.83, Upload Speed :75.38, Screen Shot :http://www.speedtest.net/result/9781685001.png
+Date Time: 2020-07-19 22:12:16.071418 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:12:44.844275 Above min speed, stay clam and enjoy, Download Speed :73.76, Upload Speed :74.03, Screen Shot :http://www.speedtest.net/result/9781686657.png
+Date Time: 2020-07-19 22:13:13.947010 Above min speed, stay clam and enjoy, Download Speed :61.04, Upload Speed :77.21, Screen Shot :http://www.speedtest.net/result/9781688254.png
+Date Time: 2020-07-19 22:13:42.911567 Below min speed Download Speed :42.26, Upload Speed :75.45, Screen Shot :http://www.speedtest.net/result/9781689922.png
+Date Time: 2020-07-19 22:13:42.911882 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:14:12.108931 Above min speed, stay clam and enjoy, Download Speed :62.54, Upload Speed :77.08, Screen Shot :http://www.speedtest.net/result/9781691584.png
+Date Time: 2020-07-19 22:14:40.969697 Below min speed Download Speed :47.74, Upload Speed :68.14, Screen Shot :http://www.speedtest.net/result/9781693264.png
+Date Time: 2020-07-19 22:14:40.970020 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:15:08.775883 Above min speed, stay clam and enjoy, Download Speed :67.67, Upload Speed :69.91, Screen Shot :http://www.speedtest.net/result/9781694759.png
+Date Time: 2020-07-19 22:15:37.188455 Below min speed Download Speed :50.92, Upload Speed :75.96, Screen Shot :http://www.speedtest.net/result/9781696656.png
+Date Time: 2020-07-19 22:15:37.188768 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:16:18.310949 Below min speed Download Speed :55.63, Upload Speed :73.17, Screen Shot :http://www.speedtest.net/result/9781698961.png
+Date Time: 2020-07-19 22:16:18.311281 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:16:46.824975 Above min speed, stay clam and enjoy, Download Speed :71.78, Upload Speed :73.05, Screen Shot :http://www.speedtest.net/result/9781700647.png
+Date Time: 2020-07-19 22:17:15.285848 Below min speed Download Speed :55.72, Upload Speed :63.55, Screen Shot :http://www.speedtest.net/result/9781702238.png
+Date Time: 2020-07-19 22:17:15.286156 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:17:43.296361 Above min speed, stay clam and enjoy, Download Speed :69.57, Upload Speed :76.87, Screen Shot :http://www.speedtest.net/result/9781703895.png
+Date Time: 2020-07-19 22:18:10.385325 Below min speed Download Speed :58.09, Upload Speed :73.75, Screen Shot :http://www.speedtest.net/result/9781705299.png
+Date Time: 2020-07-19 22:18:10.385626 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:18:38.093964 Below min speed Download Speed :53.14, Upload Speed :74.98, Screen Shot :http://www.speedtest.net/result/9781706906.png
+Date Time: 2020-07-19 22:18:38.094288 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:19:06.023619 Below min speed Download Speed :50.66, Upload Speed :64.92, Screen Shot :http://www.speedtest.net/result/9781708438.png
+Date Time: 2020-07-19 22:19:06.023936 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:19:34.143487 Above min speed, stay clam and enjoy, Download Speed :69.44, Upload Speed :69.58, Screen Shot :http://www.speedtest.net/result/9781710027.png
+Date Time: 2020-07-19 22:20:03.029317 Above min speed, stay clam and enjoy, Download Speed :67.48, Upload Speed :65.39, Screen Shot :http://www.speedtest.net/result/9781711655.png
+Date Time: 2020-07-19 22:20:30.489943 Above min speed, stay clam and enjoy, Download Speed :62.21, Upload Speed :73.67, Screen Shot :http://www.speedtest.net/result/9781713345.png
+Date Time: 2020-07-19 22:20:58.126503, Could not connect to server....retrying after 5 seconds
+Date Time: 2020-07-19 22:21:25.458335 Above min speed, stay clam and enjoy, Download Speed :71.24, Upload Speed :79.32, Screen Shot :http://www.speedtest.net/result/9781716516.png
+Date Time: 2020-07-19 22:21:53.721990 Above min speed, stay clam and enjoy, Download Speed :71.09, Upload Speed :77.21, Screen Shot :http://www.speedtest.net/result/9781718106.png
+Date Time: 2020-07-19 22:22:23.211472 Below min speed Download Speed :54.77, Upload Speed :69.32, Screen Shot :http://www.speedtest.net/result/9781719726.png
+Date Time: 2020-07-19 22:22:23.211794 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:22:51.643151 Above min speed, stay clam and enjoy, Download Speed :73.31, Upload Speed :77.14, Screen Shot :http://www.speedtest.net/result/9781721499.png
+Date Time: 2020-07-19 22:23:18.841664 Above min speed, stay clam and enjoy, Download Speed :73.79, Upload Speed :77.46, Screen Shot :http://www.speedtest.net/result/9781723014.png
+Date Time: 2020-07-19 22:23:45.747762 Above min speed, stay clam and enjoy, Download Speed :73.42, Upload Speed :74.9, Screen Shot :http://www.speedtest.net/result/9781724594.png
+Date Time: 2020-07-19 22:24:12.986924 Above min speed, stay clam and enjoy, Download Speed :72.44, Upload Speed :68.05, Screen Shot :http://www.speedtest.net/result/9781726103.png
+Date Time: 2020-07-19 22:24:40.740493 Above min speed, stay clam and enjoy, Download Speed :69.88, Upload Speed :74.55, Screen Shot :http://www.speedtest.net/result/9781727648.png
+Date Time: 2020-07-19 22:25:08.104768 Above min speed, stay clam and enjoy, Download Speed :72.31, Upload Speed :77.17, Screen Shot :http://www.speedtest.net/result/9781729180.png
+Date Time: 2020-07-19 22:25:37.262200 Above min speed, stay clam and enjoy, Download Speed :69.79, Upload Speed :78.15, Screen Shot :http://www.speedtest.net/result/9781730950.png
+Date Time: 2020-07-19 22:26:05.217879 Above min speed, stay clam and enjoy, Download Speed :77.54, Upload Speed :71.48, Screen Shot :http://www.speedtest.net/result/9781732543.png
+Date Time: 2020-07-19 22:26:32.660278 Above min speed, stay clam and enjoy, Download Speed :72.69, Upload Speed :76.96, Screen Shot :http://www.speedtest.net/result/9781734160.png
+Date Time: 2020-07-19 22:27:00.106743 Above min speed, stay clam and enjoy, Download Speed :69.67, Upload Speed :75.41, Screen Shot :http://www.speedtest.net/result/9781735660.png
+Date Time: 2020-07-19 22:27:29.087540 Above min speed, stay clam and enjoy, Download Speed :71.11, Upload Speed :71.61, Screen Shot :http://www.speedtest.net/result/9781737338.png
+Date Time: 2020-07-19 22:27:57.652876 Below min speed Download Speed :54.99, Upload Speed :74.4, Screen Shot :http://www.speedtest.net/result/9781738991.png
+Date Time: 2020-07-19 22:27:57.653179 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:28:24.278993 Above min speed, stay clam and enjoy, Download Speed :69.61, Upload Speed :77.54, Screen Shot :http://www.speedtest.net/result/9781740452.png
+Date Time: 2020-07-19 22:28:51.203944 Below min speed Download Speed :55.41, Upload Speed :78.65, Screen Shot :http://www.speedtest.net/result/9781742029.png
+Date Time: 2020-07-19 22:28:51.204266 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:29:18.885875 Above min speed, stay clam and enjoy, Download Speed :70.46, Upload Speed :78.58, Screen Shot :http://www.speedtest.net/result/9781743530.png
+Date Time: 2020-07-19 22:29:47.532304 Above min speed, stay clam and enjoy, Download Speed :69.52, Upload Speed :72.23, Screen Shot :http://www.speedtest.net/result/9781745117.png
+Date Time: 2020-07-19 22:30:14.939011 Above min speed, stay clam and enjoy, Download Speed :70.91, Upload Speed :78.36, Screen Shot :http://www.speedtest.net/result/9781746682.png
+Date Time: 2020-07-19 22:30:43.031592 Above min speed, stay clam and enjoy, Download Speed :69.36, Upload Speed :74.51, Screen Shot :http://www.speedtest.net/result/9781750012.png
+Date Time: 2020-07-19 22:31:10.353678 Above min speed, stay clam and enjoy, Download Speed :71.02, Upload Speed :67.68, Screen Shot :http://www.speedtest.net/result/9781751827.png
+Date Time: 2020-07-19 22:31:38.432303 Above min speed, stay clam and enjoy, Download Speed :71.45, Upload Speed :72.79, Screen Shot :http://www.speedtest.net/result/9781753570.png
+Date Time: 2020-07-19 22:32:08.320365 Above min speed, stay clam and enjoy, Download Speed :69.58, Upload Speed :61.52, Screen Shot :http://www.speedtest.net/result/9781755228.png
+Date Time: 2020-07-19 22:32:35.570997 Above min speed, stay clam and enjoy, Download Speed :74.05, Upload Speed :75.99, Screen Shot :http://www.speedtest.net/result/9781756904.png
+Date Time: 2020-07-19 22:33:03.936357 Below min speed Download Speed :40.26, Upload Speed :77.71, Screen Shot :http://www.speedtest.net/result/9781758506.png
+Date Time: 2020-07-19 22:33:03.936673 Email Sent, Slow Internet Complain Registered With Your Internet Service Provider
+Date Time: 2020-07-19 22:33:31.465201 Above min speed, stay clam and enjoy, Download Speed :70.33, Upload Speed :74.84, Screen Shot :http://www.speedtest.net/result/9781759991.png
+Date Time: 2020-07-19 22:33:58.627566, Could not connect to server....retrying after 5 seconds
+Date Time: 2020-07-19 22:34:25.959001 Above min speed, stay clam and enjoy, Download Speed :77.92, Upload Speed :77.8, Screen Shot :http://www.speedtest.net/result/9781763032.png
+Date Time: 2020-07-19 22:34:54.634041 Above min speed, stay clam and enjoy, Download Speed :69.63, Upload Speed :78.82, Screen Shot :http://www.speedtest.net/result/9781764694.png
+Date Time: 2020-07-19 22:35:22.178730 Above min speed, stay clam and enjoy, Download Speed :67.35, Upload Speed :71.65, Screen Shot :http://www.speedtest.net/result/9781766211.png
