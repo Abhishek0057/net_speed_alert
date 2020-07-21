@@ -9,5 +9,6 @@ Tip: It maintains logs of your internet speed every one hour in my case and regi
   * CMD : pip install -r requirement.txt
 * Set the minimum upload and downlaod speed and schedule gap between your speed test
   * In my case it is set to 60 each.
+* Set your email address and password, also your sender emailID i.e ISP helpdesk email
 * Finally run the script 'python net_speed_alert.py'
   * If you want to run in shell for mac use 'python net_speed_alert.py &'
