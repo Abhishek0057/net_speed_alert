@@ -1,4 +1,4 @@
-# net_speed_alert
+# Internet Speed Alert
 This python script checks your internet download and upload speed in backgorund by using Ookla Speedtest and if the speed is below the threshold set it will register a complain to your internet service provider by opening a ticket for you via email, which will have upload, download speed and image of result from SpeedTest by Ookla. Thus giving them a proof about downlaod and upload speed
 
 Tip: It maintains logs of your internet speed every 'one hour' in my case and registers a complain to my ISP via email, if speed goes below the speed told by them.
