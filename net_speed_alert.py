@@ -9,7 +9,7 @@ from email.mime.text import MIMEText
 #Mbits
 MIN_EXPECTED_DOWNLOAD_SPEED = 60
 MIN_EXPECTED_UPLOAD_SPEED = 60
-TIME_BETWEEN_CONSECUTIVE_SPEEDTEST = 5   #in seconds
+TIME_BETWEEN_CONSECUTIVE_SPEEDTEST = 3600   #in seconds
 
 def get_new_speeds():
     try:
