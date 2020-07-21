@@ -48,7 +48,7 @@ def send_alert(validate_speed, download_speed, upload_speed, result_screen_shot)
         #The mail addresses and password
         sender_address = 'abhishek07satbhai@gmail.com'
         sender_pass = '****'
-        receiver_address = 'abhisheksatbhai@icloud.com'
+        receiver_address = 'customercare@youbroadband.co.in'
 
         #Setup the MIME
         message = MIMEMultipart()
