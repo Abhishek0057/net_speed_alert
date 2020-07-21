@@ -8,7 +8,9 @@ Note: Many other ways to do the same thing, but wanted to learn about subprocess
 # How to Run
 
 * Install all the packages listed in requirements.txt
-  * CMD : pip install -r requirement.txt
+
+.. code-block:: python
+       pip install -r requirement.txt
 * Set the minimum upload and downlaod speed and schedule gap between your speed test
   * In my case it is set to 60 Mbits each.
 * Set your email address and password, also your sender email ID i.e ISP helpdesk email
